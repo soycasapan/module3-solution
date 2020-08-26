@@ -80,6 +80,10 @@ footer {
     text-align: center;
 }
 
+.title {
+    text-align: center;
+}
+
 #hours>span,
 #adress>span,
 #copyright>span {
